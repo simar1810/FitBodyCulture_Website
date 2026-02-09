@@ -6,9 +6,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.wellnessz.aaharsutra",
+      "package_name": "com.wellnessz.fitbody",
       "sha256_cert_fingerprints": [
-        "52:42:B2:7E:21:24:11:20:03:73:29:1C:37:F1:1B:6C:DB:39:C9:A2:DC:66:32:8E:6A:33:59:38:E5:21:B7:64"
+        "91:03:20:FB:35:69:DE:DF:AD:2F:95:09:B8:F7:3A:2D:B0:36:53:3F:41:45:8B:96:0E:01:81:F9:97:D5:5A:FA"
       ]
     }
   }
